@@ -7,6 +7,7 @@ This article was last updated on 25 Mar 2026
 - [Tables](#tables)
   - [SMILE Table](#smile-table)
   - [Keycloak Table](#keycloak-table)
+  - [User WMS Table](#user-wms-table)
 - [Data Integration](#data-integration)
 - [Features Validation Flow](#features-validation-flow)
   - [Login](#login)
